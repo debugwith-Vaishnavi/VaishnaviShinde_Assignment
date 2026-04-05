@@ -1,10 +1,12 @@
 🧑‍💻 .NET Developer Coding Assessment – Zest India IT Services
 
 📌 Introduction
+
 This repository contains solutions to the .NET Developer Coding Assessment provided by Zest India IT Services. The assessment evaluates fundamental programming skills, object-oriented concepts, database knowledge, and web API development using ASP.NET Core.
 The project demonstrates practical implementation of core backend development concepts required for a .NET Developer role.
 
 🛠️ Technologies Used
+
 C#
 .NET Core / ASP.NET Core Web API
 LINQ (Language Integrated Query)
@@ -12,6 +14,7 @@ SQL
 Visual Studio 
 
 📁 Project Structure
+
 Question1 - Palindrome Checker
 Question2 - Largest Number in Array 
 Question3 - Employee Encapsulation 
@@ -20,6 +23,7 @@ Question6 - SQL (Duplicate Records)
 Question7 - Dependency Injection (SampleDI) like this
 
 📋 Question Overview
+
 🔹 Question1 - Palindrome Checker
     A C# program to check whether a given string is a palindrome (same forward and backward).
     
@@ -65,6 +69,7 @@ Use browser for GET
 Use Postman for POST
 
 🔑 Key Concepts
+
 C# Programming: Strings, arrays, conditions, loops
 OOP Concepts: Encapsulation
 LINQ: Data filtering and querying
