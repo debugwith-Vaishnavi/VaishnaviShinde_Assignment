@@ -1,0 +1,28 @@
+6. Write a SQL query to find duplicate records in a table.
+
+Step 1: Create Table
+
+
+CREATE TABLE Employee (
+    Id INT,
+    Name VARCHAR(50),
+    Email VARCHAR(50)
+);
+
+
+Step 2: Insert Records (Including Duplicates)
+
+INSERT INTO Employee (Id, Name, Email) VALUES (1, 'Amit', 'amit@gmail.com');
+INSERT INTO Employee (Id, Name, Email) VALUES (2, 'Neha', 'neha@gmail.com');
+INSERT INTO Employee (Id, Name, Email) VALUES (3, 'Rahul', 'amit@gmail.com'); -- duplicate
+INSERT INTO Employee (Id, Name, Email) VALUES (4, 'Pooja', 'pooja@gmail.com');
+INSERT INTO Employee (Id, Name, Email) VALUES (5, 'Kiran', 'neha@gmail.com'); --duplicate
+
+Step 3:View Data
+SELECT * FROM Employee;
+
+Step 4: Find Duplicate Records (Main Query)
+SELECT Email, COUNT(*)
+FROM Employee
+GROUP BY Email
+HAVING COUNT(*) > 1;
