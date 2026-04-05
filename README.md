@@ -5,6 +5,7 @@
 This repository contains solutions to the .NET Developer Coding Assessment provided by Zest India IT Services. The assessment evaluates fundamental programming skills, object-oriented concepts, database knowledge, and web API development using ASP.NET Core.
 The project demonstrates practical implementation of core backend development concepts required for a .NET Developer role.
 
+
 🛠️ Technologies Used
 
 C#
@@ -16,6 +17,7 @@ LINQ (Language Integrated Query)
 SQL
 
 Visual Studio 
+
 
 📁 Project Structure
 
@@ -30,6 +32,7 @@ Question4 - LINQ Filtering Question5 - Simple API
 Question6 - SQL (Duplicate Records) 
 
 Question7 - Dependency Injection (SampleDI) like this
+
 
 📋 Question Overview
 
@@ -62,6 +65,7 @@ Question7 - Dependency Injection (SampleDI) like this
   Interface (IEmployeeService)
   Service class (EmployeeService)
   Registered in Program.cs
+  
 
 ▶️ How to Run the Project
 
@@ -76,6 +80,7 @@ Press F5 or click Run
 Test API:
 Use browser for GET
 Use Postman for POST
+
 
 🔑 Key Concepts
 
