@@ -85,7 +85,7 @@ Implemented Dependency Injection in ASP.NET Core using:
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/debugwith-Vaishnavi/VaishnaviShinde_Assignment.git
 
 
    ---
