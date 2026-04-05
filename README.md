@@ -1,4 +1,4 @@
-🧑‍💻 .NET Developer Coding Assessment – Zest India IT Services
+🧑‍💻 .NET Developer Coding Assessment – Zest India IT Services ADVANTO
 
 📌 Introduction
 
@@ -8,18 +8,27 @@ The project demonstrates practical implementation of core backend development co
 🛠️ Technologies Used
 
 C#
+
 .NET Core / ASP.NET Core Web API
+
 LINQ (Language Integrated Query)
+
 SQL
+
 Visual Studio 
 
 📁 Project Structure
 
 Question1 - Palindrome Checker
+
 Question2 - Largest Number in Array 
+
 Question3 - Employee Encapsulation 
+
 Question4 - LINQ Filtering Question5 - Simple API 
+
 Question6 - SQL (Duplicate Records) 
+
 Question7 - Dependency Injection (SampleDI) like this
 
 📋 Question Overview
